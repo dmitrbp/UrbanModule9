@@ -7,5 +7,5 @@ def all_variants(text):
 
 
 a = all_variants('abc')
-for index in a:
-    print(index)
+for element in a:
+    print(element)
